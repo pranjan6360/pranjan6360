@@ -11,10 +11,10 @@
 
 <p align="center">
   <a href="https://github.com/pranjan6360">
-    <img src="https://img.shields.io/badge/GitHub-pranjan6360-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+    <img src="https://img.shields.io/badge/GitHub-pranjan6360-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/h-k-pranjan-1446b132b">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:pranjanpranjan052@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -27,9 +27,9 @@
 
 - 🎓 B.E. Electronics and Communication Engineering student
 - 🏫 Srinivas Institute of Technology, Mangaluru
-- 📚 Expected graduation: 2027
+- 📅 Expected graduation: 2027
 - 🔬 Interested in VLSI, CMOS fundamentals, digital electronics and semiconductor technologies
-- 🔌 Exploring embedded systems, microcontrollers and IoT applications
+- 🔌 Exploring embedded systems, microcontrollers and IoT
 - 🤖 Interested in machine learning and computer vision
 - 🚀 Enjoy building practical projects that combine hardware and software
 
@@ -37,7 +37,7 @@
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming
+### 💻 Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,python" alt="C and Python" />
@@ -83,7 +83,7 @@ A computer-vision project exploring sign recognition and conversion into text an
 
 An embedded systems project exploring sensor-based smart waste management using the VSDSquadron Mini board.
 
-**Focus areas:** Microcontrollers · Sensor interfacing · Embedded C
+**Focus areas:** Microcontrollers · Sensor interfacing · Embedded systems
 
 ### 🏠 ESP32 IoT Home Automation
 
@@ -97,7 +97,7 @@ An IoT project for controlling home appliances using an ESP32 and a mobile inter
 
 | Qualification | Institution | Result |
 |---|---|---|
-| B.E. Electronics and Communication Engineering | Srinivas Institute of Technology, VTU | CGPA: 7.40/10 |
+| B.E. Electronics and Communication Engineering (2023–2027) | Srinivas Institute of Technology, VTU | CGPA: 7.40/10 |
 | PUC (2023) | Government Comp PU College, Sringeri | 78% |
 | SSLC (2021) | Mahatma Gandhi Residential High School, Karkala | 83.36% |
 
@@ -110,7 +110,6 @@ An IoT project for controlling home appliances using an ESP32 and a mobile inter
     src="https://github-readme-stats.vercel.app/api?username=pranjan6360&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub statistics"
     width="100%"
-    height="180"
   />
 </p>
 
@@ -119,9 +118,10 @@ An IoT project for controlling home appliances using an ESP32 and a mobile inter
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjan6360&layout=compact&theme=tokyonight&hide_border=true"
     alt="Most used programming languages"
     width="100%"
-    height="180"
   />
 </p>
+
+---
 
 ## 🔥 Contribution Streak
 
@@ -140,16 +140,15 @@ An IoT project for controlling home appliances using an ESP32 and a mobile inter
 <p align="center">
   <a href="https://github.com/pranjan6360">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=pranjan6360&theme=tokyo-night&hide_border=true&area=true"
-      alt="GitHub contribution activity graph — view my GitHub profile if the graph does not load"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=pranjan6360&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"
+      alt="GitHub contribution activity graph"
       width="100%"
     />
   </a>
 </p>
 
 <p align="center">
-  If the activity graph is unavailable,
-  <a href="https://github.com/pranjan6360">view my GitHub profile and contributions here</a>.
+  If the graph is unavailable, <a href="https://github.com/pranjan6360">view my GitHub profile and contribution history here</a>.
 </p>
 
 ---
@@ -174,7 +173,7 @@ An IoT project for controlling home appliances using an ESP32 and a mobile inter
     <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/pranjan6360">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
 
